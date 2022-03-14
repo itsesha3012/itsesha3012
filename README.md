@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsesha3012
+- 👋 Hi, I’m @itsesha3012 .i am pursuing btech in computer science (1sy year)
 - 👀 I’m interested in phython 
 - 🌱 I’m currently learning c language and phython
 - 💞️ I’m looking to collaborate on learning phython 
