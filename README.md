@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itsesha3012 .i am pursuing btech in computer science (1sy year)
-- 👀 I’m interested in phython 
-- 🌱 I’m currently learning c language and phython
-- 💞️ I’m looking to collaborate on learning phython 
+- 👋 Hi.I am pursuing btech in computer science (2nd year)
+- 👀 I’m interested in DSA
+- 🌱 I’m currently learning c++ language.
+- 💞️ I’m looking to collaborate on learning DSA
 - 📫 How to reach me ...on my email id esharawat935@gmail.com
 
 <!---
