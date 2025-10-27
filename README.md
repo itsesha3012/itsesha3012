@@ -1,7 +1,7 @@
-- 👋 Hi.I am pursuing btech in computer science (2nd year)
+- 👋 Hi. I am a developer. Deep dive into backend developement.
 - 👀 I’m interested in DSA
-- 🌱 I’m currently learning c++ language.
-- 💞️ I’m looking to collaborate on learning DSA
+- 🌱 Skilled in Nodes,Express.js and mongodb .
+- 💞️ Learning Deluge and exploring ZOHO CRM
 - 📫 How to reach me ...on my email id esharawat935@gmail.com
 
 <!---
