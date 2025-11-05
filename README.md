@@ -1,7 +1,7 @@
 - 👋 Hi. I am a developer. Deep dive into backend developement.
-- 👀 I’m interested in DSA
+- 👀 I’m interested in DSA.
 - 🌱 Skilled in Nodes,Express.js and mongodb .
-- 💞️ Learning Deluge and exploring ZOHO CRM
+- 💞️ Playing with functions and catalyst.
 - 📫 How to reach me ...on my email id esharawat935@gmail.com
 
 <!---
